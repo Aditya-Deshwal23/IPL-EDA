@@ -1,2 +1,4 @@
 IPL-EDA (Exploratory Data Analysis on IPL Matches):
 This project performs a comprehensive exploratory data analysis (EDA) on Indian Premier League (IPL) match data. It uncovers key insights and patterns such as top-performing batsmen and bowlers, team performance trends, strike rates, and match outcomes. Using Python libraries like Pandas and Plotly, the project visualizes data through interactive charts and graphs, making it easier to interpret player and team statistics for strategic analysis.
+
+Link to Google Colab: https://colab.research.google.com/drive/1EJiJB6i0Yll49VziQ5SWxRKvTAM5Izk8?usp=sharing
